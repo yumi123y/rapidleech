@@ -24,7 +24,7 @@ var php_js_strings = [];
 php_js_strings[87] = " <?php echo lang(87); ?>";
 php_js_strings[281] = "<?php echo lang(281); ?>";
 pic1= new Image(); 
-pic1.src="templates/plugmod/images/ajax-loading.gif";
+pic1.src="//cdn.jsdelivr.net/gh/Th3-822/rapidleech/templates/plugmod/images/ajax-loading.gif";
 /* ]]> */
 </script>
 <script type="text/javascript" src="//cdn.jsdelivr.net/gh/Th3-822/rapidleech/classes/js.js"></script>
