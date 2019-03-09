@@ -8,7 +8,7 @@
 <head>
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<link title="Rapidleech Style" href="//cdn.jsdelivr.net/gh/Th3-822/rapidleech@rev_43/templates/plugmod/styles/rl_style_pm.css" rel="stylesheet" type="text/css" />
+<link title="Rapidleech Style" href="//cdn.jsdelivr.net/gh/Th3-822/rapidleech/templates/plugmod/styles/rl_style_pm.css" rel="stylesheet" type="text/css" />
 
 <title><?php
 if (!isset($nn)) $nn = "\r\n";
