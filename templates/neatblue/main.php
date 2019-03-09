@@ -391,7 +391,7 @@ Rapidshare.com Folders | Usercash.com</div><br />
 <span id="loading" style="display: none;">
 &nbsp;&nbsp;
 <?php echo lang(273); ?>
-<img alt="<?php echo lang(274); ?>" src="templates/neatblue/images/ajax-loading.gif" name="pic1" />
+<img alt="<?php echo lang(274); ?>" src="//cdn.jsdelivr.net/gh/Th3-822/rapidleech/templates/neatblue/images/ajax-loading.gif" name="pic1" />
 </span>
 <div align="center"><div id="linkchecker-results" style="text-align: left;"></div></div>
 </div>
