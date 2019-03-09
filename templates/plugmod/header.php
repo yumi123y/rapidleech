@@ -8,7 +8,7 @@
 <head>
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<link title="Rapidleech Style" href="templates/plugmod/styles/rl_style_pm.css" rel="stylesheet" type="text/css" />
+<link title="Rapidleech Style" href="//cdn.jsdelivr.net/gh/Th3-822/rapidleech@rev_43/templates/plugmod/styles/rl_style_pm.css" rel="stylesheet" type="text/css" />
 
 <title><?php
 if (!isset($nn)) $nn = "\r\n";
@@ -27,13 +27,13 @@ pic1= new Image();
 pic1.src="templates/plugmod/images/ajax-loading.gif";
 /* ]]> */
 </script>
-<script type="text/javascript" src="classes/js.js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/gh/Th3-822/rapidleech/classes/js.js"></script>
 <?php
-if ($GLOBALS['options']['ajax_refresh']) { echo '<script type="text/javascript" src="classes/ajax_refresh.js"></script>'.$nn; }
-if ($GLOBALS['options']['flist_sort']) { echo '<script type="text/javascript" src="classes/sorttable.js"></script>'.$nn; }
+if ($GLOBALS['options']['ajax_refresh']) { echo '<script type="text/javascript" src="//cdn.jsdelivr.net/gh/Th3-822/rapidleech/classes/ajax_refresh.js"></script>'.$nn; }
+if ($GLOBALS['options']['flist_sort']) { echo '<script type="text/javascript" src="//cdn.jsdelivr.net/gh/Th3-822/rapidleech/classes/sorttable.js"></script>'.$nn; }
 ?>
 
 </head>
 
 <body>
-<center><img src="templates/plugmod/images/logo_pm.gif" alt="RapidLeech PlugMod" border="0" /></center><br />
+<center><img src="//cdn.jsdelivr.net/gh/Th3-822/rapidleech/templates/plugmod/images/logo_pm.gif" alt="RapidLeech PlugMod" border="0" /></center><br />
